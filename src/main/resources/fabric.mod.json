@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "no-experience-delay",
+  "version": "${version}",
+
+  "name": "NoExperienceDelay",
+  "description": "Remove delay from collecting experience orbs",
+  "authors": [
+    "insertt"
+  ],
+  "contact": {
+    "sources": "https://github.com/insertt/NoExperienceDelay"
+  },
+
+  "license": "MIT",
+  "icon": "assets/ned/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+  },
+  "mixins": [
+    "ned.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.4.0",
+    "fabric": "*"
+  }
+}
