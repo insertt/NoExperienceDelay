@@ -16,7 +16,7 @@
   "license": "MIT",
   "icon": "assets/ned/icon.png",
 
-  "environment": "client",
+  "environment": "*",
   "entrypoints": {
   },
   "mixins": [
