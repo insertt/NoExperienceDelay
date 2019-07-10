@@ -9,7 +9,8 @@
     "insertt"
   ],
   "contact": {
-    "sources": "https://github.com/insertt/NoExperienceDelay"
+    "sources": "https://github.com/insertt/NoExperienceDelay",
+    "issues": "https://github.com/insertt/NoExperienceDelay/issues"
   },
 
   "license": "MIT",
